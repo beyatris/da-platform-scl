@@ -1,8 +1,7 @@
-,Camarines Norte,Camarines Sur,Catanduanes,Albay,Sorsogon,Masbate,
-Camarines Norte,0,1,0,0,0,0,
-Camarines Sur,1,0,0.5,1,0,0.5,
-Catanduanes,0,0.5,0,0.5,0.5,0,
-Albay,0,1,0.5,0,1,0.5,
-Sorsogon,0,0,0.5,1,0,0.5,
-Masbate,0,0.5,0,0.5,0.5,0,
-,,,,,,,
+,Camarines Norte,Camarines Sur,Catanduanes,Albay,Sorsogon,Masbate
+Camarines Norte,0,1,0,0,0,0
+Camarines Sur,1,0,0.5,1,0,0.5
+Catanduanes,0,0.5,0,0.5,0.5,0
+Albay,0,1,0.5,0,1,0.5
+Sorsogon,0,0,0.5,1,0,0.5
+Masbate,0,0.5,0,0.5,0.5,0
